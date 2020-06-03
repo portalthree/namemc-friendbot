@@ -1,4 +1,4 @@
-# NameMC-ViewBot [![Python 3.x](https://img.shields.io/badge/PYTHON-3.X-blueviolet?style=for-the-badge)](http://www.python.org/download/)
+# NameMC Friend Bot ! [![Python 3.x](https://img.shields.io/badge/PYTHON-3.X-blueviolet?style=for-the-badge)](http://www.python.org/download/)
 Feeling lonely ? Get some friends !
 ## Built with ❤️ by
 
