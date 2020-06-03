@@ -53,3 +53,6 @@ You will need to open a command prompt in the folder you were in, just search ho
 Once you got your command prompte type pip install -r requirements.txt
 
 and Voila!
+
+To launch the bot you will need to open up a commend prompt and type 
+> py nmc_friend.py

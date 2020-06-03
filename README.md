@@ -46,3 +46,13 @@ Its going to be the same with the password, at line 17
 Modify it with your namemc password.
 
 Once you did all of this, you are almost done ! 
+You only need to install the requirements !
+
+You will need to open a command prompt in the folder you were in, just search how to do this on google its really simple.
+
+Once you got your command prompte type pip install -r requirements.txt
+
+and Voila!
+
+To launch the bot you will need to open up a commend prompt and type 
+> py nmc_friend.py
